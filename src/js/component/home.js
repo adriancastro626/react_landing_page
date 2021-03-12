@@ -6,12 +6,11 @@ import Cards from "./Cards";
 
 //create your first component
 export function Home() {
-    return (
-        <div>
-            <Navbar />
-            <Jumbotron />
-            <Cards />
-        </div>
-
-    )
+	return (
+		<div>
+			<Navbar />
+			<Jumbotron />
+			<Cards />
+		</div>
+	);
 }
