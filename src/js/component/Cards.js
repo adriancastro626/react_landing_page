@@ -18,7 +18,7 @@ export function Cards() {
 							</a>
 						</div>
 					</div>
-				</div>
+        </div>
 				<div className="col-3">
 					<div className="card" style={{ width: "18rem" }}>
 						<img src="..." className="card-img-top" alt="..." />
@@ -63,8 +63,8 @@ export function Cards() {
 							</a>
 						</div>
 					</div>
-				</div>
-			</div>
-		</div>
+         </div>
+      </div>
+   </div>
 	);
 }
