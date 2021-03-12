@@ -5,9 +5,12 @@ import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
 export function Home() {
-	return (
-        <Navbar />
-        <Jumbotron />
-        <Cards />
-	
-    )}
+    return (
+        <div>
+            <Navbar />
+            <Jumbotron />
+            <Cards />
+        </div>
+
+    )
+}
