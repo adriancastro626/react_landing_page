@@ -8,5 +8,6 @@ export function Home() {
         <Jumbotron />
         <Cards />
         </div>
+
     )
 }
