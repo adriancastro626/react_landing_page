@@ -42,8 +42,7 @@ export function Navbar() {
 						<li className="nav-item">
 							<a
 								className="nav-link disabled text-white"
-								href="#"
-								tabindex="-1">
+								href="#">
 								Contact
 							</a>
 						</li>
