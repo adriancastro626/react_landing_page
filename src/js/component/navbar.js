@@ -1,7 +1,6 @@
 import React from "react";
 import "bootstrap";
 
-
 export function Navbar() {
 	return (
 		<nav className="navbar navbar-expand-lg bg-dark">
