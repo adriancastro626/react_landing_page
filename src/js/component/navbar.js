@@ -1,8 +1,12 @@
 import React from "react";
+import "bootstrap";
 
 
-export function navbar(){
+export function navbar() {
     return (
-        <h1></h1>
+       
+<div></div>
+
     )
 };
+
